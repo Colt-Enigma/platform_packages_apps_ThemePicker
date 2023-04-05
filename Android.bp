@@ -84,7 +84,6 @@ java_defaults {
         "SystemUICustomizationLib",
         "kotlinx_coroutines_android",
         "kotlinx_coroutines",
-        "vendor_support",
     ],
 
     jni_libs: [
